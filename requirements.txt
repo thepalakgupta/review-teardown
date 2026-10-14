@@ -1,0 +1,5 @@
+claude-agent-sdk
+pandas
+matplotlib
+anyio
+google-play-scraper
